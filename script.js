@@ -153,3 +153,15 @@ for (let n = 1; n <= 100; n++) bank_account+=n*2;
 // Check your work! Your bank_account should have $10,100 in it.
 console.log(bank_account);
 
+/// III. Arrays & Control flow
+// A. Talk about it:
+// 1. What are the things in an array called?
+// A. There are values and indices.
+
+// 2. Do Arrays guarantee those things will be in order?
+// A. Each index is in order, but the values may or may not be in order.
+
+// 3. What real-life thing could you model with an array?
+/*A. We can model sequences, vectors, lists of all kinds, the alphabet, we can group things that relate each other. In general,
+things that have any kind of order.
+*/
